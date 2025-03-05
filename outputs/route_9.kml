@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="55">
+        <Style id="58">
+            <LineStyle id="59">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="57">
+            <name>Route_9</name>
+            <description>Mode: auto | o_zone_id: 1 | d_zone_id: 11 | Volume: 24.02</description>
+            <styleUrl>#58</styleUrl>
+            <LineString id="56">
+                <coordinates>-87.67559107,42.01165238,0.0 -87.66368557,42.0206546,0.0 -87.68749657,42.0125526,0.0 -87.73154692,41.99904926,0.0 -87.75416737,41.99004703,0.0 -87.74940517,41.96394058,0.0 -87.73511857,41.95493835,0.0 -87.75178627,41.94773657,0.0 -87.74940517,41.90542611,0.0 -87.76131067,41.89642388,0.0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>
