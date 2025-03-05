@@ -1,8 +1,27 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Packaging/Distribution
 build/
 dist/
-*egg-info/
-.vscode/
+*.egg-info/
+.eggs/
 .idea/
 .ipynb_checkpoints
 __pycache__/
 .DS_Store
+
+# Log files
+*.log
